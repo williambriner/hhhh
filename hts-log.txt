@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Dec 2022 16:56:52 at https://casoinglesmariana.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://casoinglesmariana.com.br/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://casoinglesmariana.com.br/ -O1 "C:\Users\PC\Desktop\CASO MARIANA\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://casoinglesmariana.com.br/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:57:07	Error: 	"Not Found" (404) at link https://casoinglesmariana.com.br/b (from https://connect.facebook.net/en_US/fbevents.js)
+16:57:07	Error: 	"Not Found" (404) at link https://casoinglesmariana.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 57 links scanned, 54 files written (2588016 bytes overall) [1233419 bytes received at 82227 bytes/sec], 1915944 bytes transferred using HTTP compression in 45 files, ratio 18%, 11.6 requests per connection
+(2 errors, 0 warnings, 0 messages)
